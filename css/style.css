@@ -289,3 +289,6 @@ p{
     font-size: 50px;
     padding: 1%;
 }
+.res{
+     width:min(100%,950px);
+}
