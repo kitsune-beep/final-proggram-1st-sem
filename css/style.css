@@ -203,6 +203,7 @@ px;
     border-radius: 10px;
     margin: auto;
     transition: 0.5s; 
+    display: block;
 }
 .box1:hover{
     transform: scale(1.3);
